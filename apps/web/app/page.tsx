@@ -32,11 +32,13 @@ export default function Home() {
           priority
         />
         <ol>
+          <li>New feature!</li>
           <li>
             Get started by editing <code>apps/web/app/page.tsx</code>
           </li>
           <li>Save and see your changes instantly.</li>
           <li>Hello from the <code>integration</code> branch!</li>
+          <li>A different new feature!</li>
         </ol>
 
         <div className={styles.ctas}>
