@@ -32,6 +32,7 @@ export default function Home() {
           priority
         />
         <ol>
+          <li>Another list item!</li>
           <li>
             Get started by editing <code>apps/docs/app/page.tsx</code>
           </li>
