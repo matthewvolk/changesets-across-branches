@@ -31,12 +31,7 @@ jobs:
       - name: Build Packages
         run: pnpm --filter "./packages/**" build
 
-      - name: Create Release Pull Request
-        uses: changesets/action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create Release Pull Request or Publish to npm
+      - name: Create Release Pull Request or Publish
         uses: changesets/action@v1
         with:
           publish: pnpm exec changeset publish
