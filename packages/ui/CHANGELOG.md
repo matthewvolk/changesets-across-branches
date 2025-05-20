@@ -1,5 +1,11 @@
 # @repo/ui
 
+## 0.0.3
+
+### Patch Changes
+
+- [#9](https://github.com/matthewvolk/changesets-across-branches/pull/9) [`9db37ec`](https://github.com/matthewvolk/changesets-across-branches/commit/9db37ecf7794b0b5dd504eca53b6a57bc1290848) Thanks [@matthewvolk](https://github.com/matthewvolk)! - Remove excitement
+
 ## 0.0.2
 
 ### Patch Changes
