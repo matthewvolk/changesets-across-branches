@@ -1,6 +1,9 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@3.1.1/schema.json",
-  "changelog": ["@changesets/changelog-github", { "repo": "bigcommerce/catalyst" }],
+  "changelog": [
+    "@changesets/changelog-github",
+    { "repo": "matthewvolk/changesets-across-branches" }
+  ],
   "commit": false,
   "fixed": [],
   "linked": [],
