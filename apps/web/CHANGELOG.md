@@ -1,5 +1,11 @@
 # web
 
+## 0.1.2
+
+### Patch Changes
+
+- [#11](https://github.com/matthewvolk/changesets-across-branches/pull/11) [`3be2082`](https://github.com/matthewvolk/changesets-across-branches/commit/3be20825bca1efe75227a18ee9321d922965f86b) Thanks [@matthewvolk](https://github.com/matthewvolk)! - Updated copy on `apps/web` homepage on integration
+
 ## 0.1.3
 
 ### Patch Changes
