@@ -14,5 +14,11 @@
   },
   "baseBranch": "integration",
   "updateInternalDependencies": "patch",
-  "ignore": []
+  "ignore": [
+    "web",
+    "docs",
+    "@repo/ui",
+    "@repo/eslint-config",
+    "@repo/typescript-config"
+  ]
 }
