@@ -6,6 +6,8 @@ import onlyWarn from "eslint-plugin-only-warn";
 
 /**
  * A shared ESLint configuration for the repository.
+ * 
+ * Hello, world!
  *
  * @type {import("eslint").Linter.Config[]}
  * */
