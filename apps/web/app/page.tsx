@@ -38,6 +38,7 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
           <li>Hello from the <code>integration</code> branch!</li>
+          <li>A different new feature!</li>
         </ol>
 
         <div className={styles.ctas}>
