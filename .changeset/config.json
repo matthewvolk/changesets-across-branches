@@ -12,7 +12,7 @@
     "version": true,
     "tag": true
   },
-  "baseBranch": "main",
+  "baseBranch": "integration",
   "updateInternalDependencies": "patch",
   "ignore": []
 }
