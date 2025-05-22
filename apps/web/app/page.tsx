@@ -41,6 +41,7 @@ export default function Home() {
           <li>A different new feature!</li>
           <li>New Feature 1</li>
           <li>New Feature 2</li>
+          <li>New Integration Feature 1</li>
         </ol>
 
         <div className={styles.ctas}>
