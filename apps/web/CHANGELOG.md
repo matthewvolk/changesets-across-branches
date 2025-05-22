@@ -1,5 +1,11 @@
 # web
 
+## 0.1.4
+
+### Patch Changes
+
+- [#13](https://github.com/matthewvolk/changesets-across-branches/pull/13) [`2806ebd`](https://github.com/matthewvolk/changesets-across-branches/commit/2806ebdb01dc1b17eb69574352c05d6d7267a60a) Thanks [@matthewvolk](https://github.com/matthewvolk)! - Add new feature to `main`
+
 ## 0.1.3
 
 ### Patch Changes
