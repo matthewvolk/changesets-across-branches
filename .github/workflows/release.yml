@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - integration
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
@@ -35,8 +34,6 @@ jobs:
         uses: changesets/action@v1
         with:
           publish: pnpm exec changeset publish
-          commit: "Version Packages (`${{ github.ref_name }}`)"
-          title: "Version Packages (`${{ github.ref_name }}`)"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
