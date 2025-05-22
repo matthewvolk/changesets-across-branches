@@ -1,5 +1,13 @@
 # web
 
+## 0.1.5
+
+### Patch Changes
+
+- [#17](https://github.com/matthewvolk/changesets-across-branches/pull/17) [`75147ce`](https://github.com/matthewvolk/changesets-across-branches/commit/75147ce6ddb5b0d3701b6111da833bbbe9f75da9) Thanks [@matthewvolk](https://github.com/matthewvolk)! - A new feature
+
+- [#19](https://github.com/matthewvolk/changesets-across-branches/pull/19) [`9990d31`](https://github.com/matthewvolk/changesets-across-branches/commit/9990d317a2573b4295313a83bfd4e99a15ed66c2) Thanks [@matthewvolk](https://github.com/matthewvolk)! - Another new feature
+
 ## 0.1.4
 
 ### Patch Changes
