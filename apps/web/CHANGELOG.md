@@ -1,5 +1,11 @@
 # web
 
+## 0.1.3
+
+### Patch Changes
+
+- [#15](https://github.com/matthewvolk/changesets-across-branches/pull/15) [`d54db3c`](https://github.com/matthewvolk/changesets-across-branches/commit/d54db3ca4ef626a3b5a0866dbe63c26b58299b2e) Thanks [@matthewvolk](https://github.com/matthewvolk)! - Add new feature to `integration`
+
 ## 0.1.2
 
 ### Patch Changes
