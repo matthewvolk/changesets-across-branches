@@ -1,5 +1,15 @@
 # web
 
+## 1.0.0
+
+### Major Changes
+
+- [#25](https://github.com/matthewvolk/changesets-across-branches/pull/25) [`2df08dd`](https://github.com/matthewvolk/changesets-across-branches/commit/2df08dd64c896b10b31773880593bdb8b423d67f) Thanks [@matthewvolk](https://github.com/matthewvolk)! - Release 1.0.0 (makeswift)
+
+### Patch Changes
+
+- [#20](https://github.com/matthewvolk/changesets-across-branches/pull/20) [`d61d344`](https://github.com/matthewvolk/changesets-across-branches/commit/d61d344e7a4eedf22d16ff0f1293d719cf6bfa90) Thanks [@matthewvolk](https://github.com/matthewvolk)! - A new feature for `integration`
+
 ## 0.1.4
 
 ### Patch Changes
