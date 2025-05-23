@@ -1,5 +1,11 @@
 # web
 
+## 1.0.0
+
+### Major Changes
+
+- [#23](https://github.com/matthewvolk/changesets-across-branches/pull/23) [`c728c5a`](https://github.com/matthewvolk/changesets-across-branches/commit/c728c5aea6503bab982f8aa5491810234626ea0a) Thanks [@matthewvolk](https://github.com/matthewvolk)! - Release 1.0.0
+
 ## 0.1.5
 
 ### Patch Changes
